@@ -16,12 +16,18 @@ body {
     margin: 0 auto;
 }
 
+.title {
+    text-align: center;
+}
+
 .verse {
     margin-top: 50px;
     color: blue;
     font-size: 20px;
+    text-align: center;
 }
 
 .chorus {
     margin-top: 50px;
+    text-align: center;
 }
